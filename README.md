@@ -9,4 +9,4 @@
 ![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridm011&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridm011&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/ingridm011/github-readme-stats)
 
-![snake gif](https://github.com/ingridm011/ingridm011/blob/output/github-contribution-grid-snake.svg)
+
