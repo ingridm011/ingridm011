@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente sou estudante de Ciência da Computação na UFPI .
-- 🌱 Estou aprendendo Django - HTLM - CSS.
+- 🌱 Estou aprendendo Django - HTML - CSS.
 - 📫 Contato: miranda.ingrid011@gmail.com.
 - 😄 Pronomes: Ela | Dela.
 
